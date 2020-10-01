@@ -37,10 +37,6 @@ public class MainActivity extends AppCompatActivity {
     //intent code
     final int VIEW_SELECTED = 1;
 
-    //public static final String MY_PREFS_FILENAME = "com.example.bootcampandroid.Names";
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
